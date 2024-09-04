@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a particle physics Phd student. <br>working on simulating the internal Physics of a photon multiplier tubes.<br>From Electron avalanche to ion feedback. <br>  
+I am a particle physics Phd student. <br>Working on simulating the internal Physics of a photon multiplier tubes.<br>From Electron avalanche to ion feedback. <br>  
 
 
 # 💻 Tech Stack:
