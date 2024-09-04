@@ -7,7 +7,6 @@ I am a particle physics Phd student. <br>working on simulating the internal Phys
 )
 
 
----
-[![](https://visitcount.itsvg.in/api?id= alexrdavidson99&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
